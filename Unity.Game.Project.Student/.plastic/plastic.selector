@@ -1,0 +1,4 @@
+repository "Unity.Game.Project.Student@gerasimcug@cloud"
+  path "/"
+    br "/main"
+    co "/main"
